@@ -1218,12 +1218,6 @@ Awesome LLM compression research papers and tools to accelerate LLM training and
 ## Contributing
 This is an active repository and your contributions are always welcome! Before you add papers/tools into the awesome list, please make sure that:
 
-- The paper or tools is related to **Large Language Models (LLMs)**. If the compression algorithms or tools are only evaluated on small-scale language models (e.g., BERT), they should not be included in the list.
-- The paper should be inserted in the correct position in chronological order (publication/arxiv release time). 
-- The link to [Paper] should be the arxiv page, not the pdf page if this is a paper posted on arxiv.
-- If the paper is accpeted, please use the correct publication venue instead of arxiv
-
-Thanks again for all the awesome contributors to this list!
 
 <a href="https://github.com/HuangOwen/Awesome-LLM-Compression/graphs/contributors"><img src="https://contrib.rocks/image?repo=HuangOwen/Awesome-LLM-Compression&max=240&columns=12" /></a>
 
